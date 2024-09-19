@@ -59,7 +59,7 @@ namespace Calculs
                             Console.WriteLine("Faux : " + val1 + " + " + val2 + " = " + solution);
                         }
                         break;
-                    case "2": //multiplication                    
+                    case "2": // choix de la multiplication                    
                         val1 = rand.Next(1, 10);
                         val2 = rand.Next(1, 10);
                         // saisie de la réponse
